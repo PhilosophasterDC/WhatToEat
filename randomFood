@@ -1,0 +1,8 @@
+package edu.oakland.personal;
+
+public class randomFoodr{
+  
+  public static void main(String[] args){
+    randomFood rnd = new randomFood();
+  }
+    
